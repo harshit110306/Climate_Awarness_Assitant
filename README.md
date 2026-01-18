@@ -1,8 +1,3 @@
-Below is a **professional, end-to-end README** you can **directly copy-paste into GitHub**.
-It explains the project **from start to finish**, clearly states that it is **for demo/prototype purposes**, and is written in a **professional, recruiter- and evaluator-friendly tone**.
-
----
-
 # 🌍 Climate Awareness RAG Chatbot (Demo Project)
 
 ## 📌 Project Overview
